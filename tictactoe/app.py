@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from tkinter.constants import DISABLED
-from gamemanager import Gamemanager
+from tictactoe.gamemanager import Gamemanager
 
 
 class App(tk.Tk):
